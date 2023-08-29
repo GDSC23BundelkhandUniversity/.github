@@ -2,9 +2,10 @@
 
 ## Hi there 👋
 
-Welcome to the GitHub repository of Google Developer Student Clubs (GDSC) - Bundelkhand University! We're excited to have you here.
+Welcome to the GitHub community of Google Developer Student Clubs (GDSC) - Bundelkhand University! We're excited to have you here.
 
-![GDSC Bundelkhand University Logo](images/gdsc_logo.png)
+![GDSC Bundelkhand University Logo](![Google Developer Student Club - Bundelkhand University](https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/97a9ab37-48b0-46ca-b36e-3cb6bd51d3d3)
+)
 
 ## About Us
 
