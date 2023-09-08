@@ -19,3 +19,6 @@ git config --global user.email "your.email@example.com"
 Replace "Your Name" and "your.email@example.com" with your actual name and email address.
 
 ## Essential Git Commands
+
+Here's a list of commonly used Git commands and their descriptions:
+
