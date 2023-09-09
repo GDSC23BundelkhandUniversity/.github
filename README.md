@@ -13,26 +13,6 @@ Google Developer Student Clubs (GDSC) is a Google Developers program that offers
 
 Learn more about GDSC Bundelkhand University [here](https://gdsc.community.dev/bundelkhand-university-jhansi/).
 
-## Table of Contents
-
-- [Projects](#projects)
-- [Events](#events)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [Getting Involved](#getting-involved)
-
-## Projects
-
-Explore the exciting projects our GDSC chapter is working on. You can find project details, documentation, and code in the [Projects](/projects) directory.
-
-## Events
-
-Stay up-to-date with our upcoming events, workshops, and meetups. Check out our [Events](/events) section for event details, schedules, and registration links.
-
-## Resources
-
-Access a collection of resources including presentation slides, workshop materials, and useful links in the [Resources](/resources) directory.
-
 ## Contributing
 
 We welcome contributions from the community! If you have an idea for a project, a workshop, or want to collaborate, please follow our [contribution guidelines](CONTRIBUTING.md).
@@ -51,6 +31,10 @@ We welcome students of all backgrounds and skill levels to join GDSC BU. Here's 
 
 Have questions or want to connect with us? Reach out to us on our social media channels:
 
+## Newcomers Guide
+
+If you're new to GitHub and want to learn the basics, check out our [GitHub 101 Guide](https://github.com/GDSC23BundelkhandUniversity/.github/blob/main/github101.md). This guide will help you get started with GitHub and understand the fundamentals of version control, repositories, commits, and more.
+
 <div align="center" dir="auto">
 <h3 dir="auto"><a id="user-content-connect-with-us-on" class="anchor" aria-hidden="true" tabindex="-1" href="#connect-with-us-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Connect With us on</h3>
 <a href="https://twitter.com/gdsc_bu" rel="nofollow"><img alt="Twitter" src="https://camo.githubusercontent.com/e1c2fd3bcd4ed13889ed78d1e814261a7cfbc79ae826198b7813850b15a8d956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a> 
@@ -58,7 +42,7 @@ Have questions or want to connect with us? Reach out to us on our social media c
 <a href="https://www.instagram.com/gdsc_bu/" rel="nofollow"><img alt="Instagram" src="https://camo.githubusercontent.com/c124dcf061c889aca354b28795b8f64fc0e6f72119f614303d3c6fb7a6264f1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d254646363942342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d776869746526636f6c6f723d636434383662" data-canonical-src="https://img.shields.io/badge/instagram-%FF69B4.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=cd486b" style="max-width: 100%;"></a>
 </div>
 
-
+---
 For general inquiries, you can also email us at gdscbu.official@gmail.com.
 
 ---
