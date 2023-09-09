@@ -38,7 +38,7 @@ Interested in contributing to this GitHub 101 guide? Here's how you can get invo
    
 ## Useful GitHub Commands
 
-If you're new to GitHub and want to learn the basics commands of git, check out our [Usefull Command guide](link-to-github-101-readme.md). This guide will help you get started with GitHub and understand the fundamentals of version control, repositories, commits, and more.
+If you're new to GitHub and want to learn the basics commands of git, check out our [Usefull Git Command guide](https://github.com/GDSC23BundelkhandUniversity/.github/blob/main/usefull_commands.md). This guide will help you get started with Git and understand the fundamentals of version control, repositories, commits, and more.
 
 
 ## Support and Contact
