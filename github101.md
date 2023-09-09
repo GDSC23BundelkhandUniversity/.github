@@ -35,17 +35,19 @@ Interested in contributing to this GitHub 101 guide? Here's how you can get invo
 2. Make your changes in your forked repository.
 
 3. Submit a pull request to this repository with your proposed changes.
+   
+## Useful GitHub Commands
+
+If you're new to GitHub and want to learn the basics commands of git, check out our [Usefull Command guide](link-to-github-101-readme.md). This guide will help you get started with GitHub and understand the fundamentals of version control, repositories, commits, and more.
+
 
 ## Support and Contact
 
 If you have any questions or need assistance, feel free to reach out:
 
-- Email: your.email@example.com
-- GitHub Issues: [Link to Issues](https://github.com/yourusername/github-101/issues)
+- Email: gdscbu.official@gmail.com
+- GitHub Issues: [Link to Issues](https://github.com/GDSC23BundelkhandUniversity)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
