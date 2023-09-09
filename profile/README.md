@@ -15,7 +15,7 @@ Learn more about GDSC Bundelkhand University [here](https://gdsc.community.dev/b
 
 ## Contributing
 
-We welcome contributions from the community! If you have an idea for a project, a workshop, or want to collaborate, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you have an idea for a project, a workshop, or want to collaborate, please follow our [contribution guidelines](https://github.com/GDSC23BundelkhandUniversity/.github/blob/main/github101.md#how-to-contribute).
 
 ## Getting Involved
 
