@@ -1,10 +1,11 @@
 # GDSC Bundelkhand University
 
+![Google Developer Student Club - Bundelkhand University](https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/97a9ab37-48b0-46ca-b36e-3cb6bd51d3d3)
+
+
 ## Hi there 👋
 
 Welcome to the official GitHub profile of Google Developer Student Clubs at Bundelkhand University (GDSC_BU)! Here you will find a collection of our projects, resources, and contributions from our passionate and talented student community.
-
-![Google Developer Student Club - Bundelkhand University](https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/97a9ab37-48b0-46ca-b36e-3cb6bd51d3d3)
 
 
 ## About Us
