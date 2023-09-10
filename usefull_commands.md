@@ -150,4 +150,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to use this repository as a reference whenever you need to use Git commands in your projects. Happy coding!
+Feel free to use this repository as a reference whenever you need to use Git commands in your projects. Happy coding! Stay Connected!
