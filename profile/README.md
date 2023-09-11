@@ -22,18 +22,18 @@ We welcome contributions from the community! If you have an idea for a project, 
 
 ## Getting Involved
 
-<img align="left" alt="" width="320" height="280" src="https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/b2eea9b4-214e-43df-9158-b0eab0a43095" style="border-radius: 50%;">
+<img align="left" alt="" width="320" height="280" src="https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/b2eea9b4-214e-43df-9158-b0eab0a43095">
 
 <div align="center"> 
 We welcome students of all backgrounds and skill levels to join GDSC BU. Here's how you can get involved:
 
-- **Join Our Community:** Connect with us on social media and our website to stay updated on events and projects.
+**Join Our Community:** Connect with us on social media and our website to stay updated on events and projects.
 
-- **Attend Our Events:** We regularly host workshops, hackathons, and tech talks. Join us to learn and network with fellow developers.
+**Attend Our Events:** We regularly host workshops, hackathons, and tech talks. Join us to learn and network with fellow developers.
 
-- **Start Your Project:** Have an idea for a project? We encourage students to start their initiatives and collaborate with others in our community.
+**Start Your Project:** Have an idea for a project? We encourage students to start their initiatives and collaborate with others in our community.
 
-- **Spread the Word:** Help us grow by sharing information about GDSC BU with your peers who might be interested.
+**Spread the Word:** Help us grow by sharing information about GDSC BU with your peers who might be interested.
 </div>
 </br>
 
