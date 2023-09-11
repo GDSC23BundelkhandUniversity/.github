@@ -27,13 +27,13 @@ We welcome contributions from the community! If you have an idea for a project, 
 <div align="center"> 
 We welcome students of all backgrounds and skill levels to join GDSC BU. Here's how you can get involved:
 
-1.Join Our Community: Connect with us on social media and our website to stay updated on events and projects.
+- **Join Our Community:** Connect with us on social media and our website to stay updated on events and projects.
 
-2.Attend Our Events: We regularly host workshops, hackathons, and tech talks. Join us to learn and network with fellow developers.
+- **Attend Our Events:** We regularly host workshops, hackathons, and tech talks. Join us to learn and network with fellow developers.
 
-3.Start Your Project: Have an idea for a project? We encourage students to start their initiatives and collaborate with others in our community.
+- **Start Your Project:** Have an idea for a project? We encourage students to start their initiatives and collaborate with others in our community.
 
-4.Spread the Word: Help us grow by sharing information about GDSC BU with your peers who might be interested.
+- **Spread the Word:** Help us grow by sharing information about GDSC BU with your peers who might be interested.
 </div>
 </br>
 
