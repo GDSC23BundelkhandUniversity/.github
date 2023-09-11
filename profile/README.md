@@ -35,6 +35,7 @@ We welcome students of all backgrounds and skill levels to join GDSC BU. Here's 
 
 4.Spread the Word: Help us grow by sharing information about GDSC BU with your peers who might be interested.
 </div>
+</br>
 
 ## Newcomers Guide
 
