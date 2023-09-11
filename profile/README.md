@@ -22,7 +22,7 @@ We welcome contributions from the community! If you have an idea for a project, 
 
 ## Getting Involved
 
-<img align="left" alt="" width="350" height="300" src="https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/b2eea9b4-214e-43df-9158-b0eab0a43095" style="border-radius: 50%;">
+<img align="left" alt="" width="320" height="280" src="https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/b2eea9b4-214e-43df-9158-b0eab0a43095" style="border-radius: 50%;">
 
 <div align="center"> </br>
 We welcome students of all backgrounds and skill levels to join GDSC BU. Here's how you can get involved:
