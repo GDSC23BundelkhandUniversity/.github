@@ -1,7 +1,7 @@
 ![Google Developer Student Club - Bundelkhand University](https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/97a9ab37-48b0-46ca-b36e-3cb6bd51d3d3)
 # GDSC Bundelkhand University
 
-### Hello, Amazing people <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+Hello, Amazing people <img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <img align="right" alt="" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
 
 Welcome to the official GitHub profile of Google Developer Student Clubs at Bundelkhand University (GDSC_BU)! Here you will find a collection of our projects, resources, and contributions from our passionate and talented student community.
