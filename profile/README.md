@@ -14,10 +14,10 @@ The objective of GDSC is to enable every individual and organisation on the eart
 
 ##  What moral standards do we hold our community and those who participate to?
 
-Our program finds strength in diversity and inclusion. In all our interactions, we aspire to embody and champion these values as a program and as a community.
+Our program finds strength in diversity and inclusion. In all our interactions, we aspire to embody and champion these values as a program and as a community. [Rules, regulation and guidelines of organization](https://github.com/GDSC23BundelkhandUniversity/.github/blob/main/profile/community_guidelines.md)
 
 
-<br>
+
 ## Contributing
 
 We welcome contributions from the community! If you have an idea for a project, a workshop, or want to collaborate, please follow our [contribution guidelines](https://github.com/GDSC23BundelkhandUniversity/.github/blob/main/github101.md#how-to-contribute).
