@@ -53,9 +53,9 @@ Have questions or want to connect with us? Reach out to us on our social media c
 </div>
 <br>
 
-Join the GDSC BU Whatsapp Community group https://chat.whatsapp.com/HQxXtdyN3dKH9qOjpgivE9
-<br>
-Join the GDSC BU Telegram open-chat Community https://t.me/gdsc_bu23telegram
+### Join the [GDSC BU Whatsapp Community group](https://chat.whatsapp.com/HQxXtdyN3dKH9qOjpgivE9)
+
+### Join the [GDSC BU Telegram open-chat Community](https://t.me/gdsc_bu23telegram)
 
 ---
 For general inquiries, you can also email us at gdscbu.official@gmail.com.
