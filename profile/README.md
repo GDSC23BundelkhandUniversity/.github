@@ -1,13 +1,16 @@
 ![Google Developer Student Club - Bundelkhand University](https://github.com/GDSC23BundelkhandUniversity/.github/assets/114987574/97a9ab37-48b0-46ca-b36e-3cb6bd51d3d3)
-# GDSC Bundelkhand University
+# GDSC Bundelkhand University🏫
 
-Hello, Amazing people <img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+[![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-yellow)](https://gdsc.community.dev/bundelkhand-university-jhansi/)<br>
+[![Discord Chat](https://img.shields.io/discord/760928671698649098.svg)](https://discord.gg/cZkCKaxp8n)
+
+## <p align="center"> We at GDSC-BU💙: Open-Source-Contributions!</p><img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <img align="right" alt="" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
 
-Welcome to the official GitHub profile of Google Developer Student Clubs at Bundelkhand University (GDSC_BU)! Here you will find a collection of our projects, resources, and contributions from our passionate and talented student community.
+### Welcome to the official GitHub profile of Google Developer Student Clubs at Bundelkhand University (GDSC_BU)! Here you will find a collection of our projects, resources, and contributions from our passionate and talented student community.
 
 
-## About Us
+## Get Involved🌐
 
 The objective of GDSC is to enable every individual and organisation on the earth to accomplish more. Google Developer Student Club's student lead representing the community at our college (Bundelkhand University).It's a global network of on-campus leaders ready to support fellow students, lead in their local tech community, and develop future technical and career skills. As a programme/dev, our standards and values represent our dedication to create a positive influence around the world by providing everyone with a respectful, friendly, professional, and inclusive experience. Simply said, we place great importance on an individual's character and leadership. This Code of Conduct is made widely visible by GDSC in order to establish our values, expectations, give reporting mechanisms for conduct infractions, and outline how GDSC may choose to enforce this Code of Conduct.
 #### Learn more about [GDSC Bundelkhand University](https://gdsc.community.dev/bundelkhand-university-jhansi) 
